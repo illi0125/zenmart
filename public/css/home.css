@@ -201,7 +201,7 @@
   display: flex;
   flex-direction: row;
 
-  border: 1px solid #5746a1;
+  border-top: 1px solid #5746a1;
 }
 
 .navbar_bottom .navbar_bottom_menu_box {

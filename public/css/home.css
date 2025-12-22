@@ -567,3 +567,22 @@
 
   color: rgba(98, 105, 116, 1);
 }
+
+.home_page .adv_frame {
+  margin-top: 90px;
+  width: 100%;
+  height: 120px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: 'Jost';
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
+
+  background-color: #e5edff;
+  color: rgba(0, 83, 246, 1);
+}

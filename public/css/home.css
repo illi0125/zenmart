@@ -812,7 +812,7 @@
 }
 
 .tv_frame .tv_product_boxes .tv_product_box {
-  width: 260px;
+  width: 250px;
   height: 452px;
 
   display: flex;
@@ -845,6 +845,7 @@
   justify-content: center;
 
   background-image: url("../images/icons/event_bg.png");
+  background-size: cover;
 }
 
 .event_frame .container {

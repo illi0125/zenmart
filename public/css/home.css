@@ -1,5 +1,4 @@
 .home_page {
-  padding-bottom: 60px;
   display: flex;
   flex-direction: column;
 }
@@ -107,7 +106,7 @@
   width: 32px;
   height: 2px;
   background: rgba(4, 30, 66, 1);
-} */
+} */ 
 
 .container .shop_link {
   position: relative;
@@ -812,7 +811,7 @@
 }
 
 .tv_frame .tv_product_boxes .tv_product_box {
-  width: 250px;
+  width: 255px;
   height: 452px;
 
   display: flex;
